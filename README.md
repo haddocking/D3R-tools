@@ -1,4 +1,4 @@
-# D3R_GC3
+# Intro
 
 This is a collection of scripts that the HADDOCK team made use
 of during D3R Grand Challenges 2 and 3. In addition to the scripts
